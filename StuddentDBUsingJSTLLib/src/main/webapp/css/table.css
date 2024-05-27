@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+
+table.css
+
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+	border: 3px;
+}
+
+th, td {
+	padding: 8px;
+	text-align: center;
+	border-bottom: 1px solid #ddd;
+}
+
+tr:hover {
+	background-color: coral;
+}
+
+h1 {
+	color: #FF5F1F;
+	text-align: center;
+	text-shadow: blue;
+}
